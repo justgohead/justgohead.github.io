@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2017/06/16/conditional-expression-calculate/</loc>
+    
+    <lastmod>2017-06-16T03:58:56.291Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2017/06/09/use-hexo/</loc>
     
     <lastmod>2017-06-09T01:43:30.872Z</lastmod>
